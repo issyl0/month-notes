@@ -13,5 +13,6 @@ contributions, but crucially not my day job. However, given my day job
 is mostly commits to public repositories, they're easy to find if
 you're interested.
 
+### [April 2020](2020-04.md)
 ### [March 2020](2020-03.md)
 ### [February 2020](2020-02.md)
