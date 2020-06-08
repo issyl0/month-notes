@@ -7,12 +7,7 @@ money is going towards.
 
 If you're one of my GitHub Sponsors, thanks so much!
 
-These month notes will only focus on my Homebrew/Linuxbrew
-maintenance, and possibly some other open source project
-contributions, but crucially not my day job. However, given my day job
-is mostly commits to public repositories, they're easy to find if
-you're interested.
-
+### [May 2020](2020-05.md)
 ### [April 2020](2020-04.md)
 ### [March 2020](2020-03.md)
 ### [February 2020](2020-02.md)
